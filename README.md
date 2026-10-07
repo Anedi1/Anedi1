@@ -1,6 +1,6 @@
 ## 🏆 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anedi1?theme=dark&ext=heatmap)
 
 <!--
 **Anedi1/Anedi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
